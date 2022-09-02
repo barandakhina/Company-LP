@@ -1,6 +1,6 @@
 # Company-LP
 
-- Посмотреть сайт, не скачивая файлы можно [по ссылке](https://barandakhina.github.io/Home-page__bulding/)
+- Посмотреть сайт, не скачивая файлы можно [по ссылке](https://barandakhina.github.io/Company-LP/)
 - Cсылка на макет - [макет в figma](https://www.figma.com/file/OmLEbwRJtKxnOTFCLhrIIe/Company-(LP)?node-id=0%3A1)
 - БЭМ-именование классов 
 - Адаптивная вёрстка
