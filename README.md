@@ -10,7 +10,7 @@
 
 --------------------------------------------------------------------------------------
 
-- To view the site without downloading the files, you can [link](https://barandakhina.github.io/Home-page__bulding/)
+- To view the site without downloading the files, you can [link](https://barandakhina.github.io/Company-LP/)
 - Link to layout - [layout in figma](https://www.figma.com/file/OmLEbwRJtKxnOTFCLhrIIe/Company-(LP)?node-id=0%3A1)
 - BEM-name classes 
 - Adaptive Coding
